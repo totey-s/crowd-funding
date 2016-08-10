@@ -1,0 +1,12 @@
+# crowd-funding website
+
+People with creative ideas to find the resources and support they need to make their ideas a reality.
+This website was developed using Spring MVC + Hibernate framework with MYSQL as the database.
+Some of the fatures of this site are,
+1) Hibernate Indexing Search
+2) User Authentication and Email Verification
+3) User can fund a project through payment gateway
+4) User can create a project and receive funding for that project
+5) User can track progress whether the payment budget has reached
+6) User can track progress of the project funded for and receive additional benefits
+7) Hibernate Annotations Used
